@@ -2,6 +2,7 @@
 
 
 Welcome to **NextGenAI**, an advanced productivity web application designed to streamline your workflow using state-of-the-art tools. This app integrates cutting-edge functionalities to help you analyze YouTube videos, interact with PDF documents, and generate custom notes. 
+
 ![image](https://github.com/user-attachments/assets/76ee3e67-9760-4159-8c47-fef47ca060bd)
 
 
@@ -32,16 +33,16 @@ The main features include video transcription, summarization, translation, docum
 
 Follow these steps to set up the application locally:
 
-### 1. Clone the Repository
-Clone the repository to your local machine:
+### 1. **Clone the Repository**
+- Clone the repository to your local machine:
 git clone https://github.com/your-username/nextgenai-webapp.git
 cd nextgenai-webapp
 
-### 2. Install Dependencies
+### 2. **Install Dependencies**
 Install the necessary Python dependencies:
 pip install -r requirements.txt
 
-### 3. Running the App
+### 3. **Running the App**
 Once the dependencies are installed and API keys are set up, run the app using Streamlit:
 streamlit run app.py
 This will launch the web application in your default browser, where you can use all the features.
