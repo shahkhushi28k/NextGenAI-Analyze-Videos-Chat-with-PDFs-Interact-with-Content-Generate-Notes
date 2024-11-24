@@ -35,15 +35,21 @@ Follow these steps to set up the application locally:
 
 ### 1. **Clone the Repository**
 - Clone the repository to your local machine:
+  
 git clone https://github.com/your-username/nextgenai-webapp.git
+
 cd nextgenai-webapp
 
 ### 2. **Install Dependencies**
-Install the necessary Python dependencies:
+- Install the necessary Python dependencies:
+  
 pip install -r requirements.txt
 
 ### 3. **Running the App**
-Once the dependencies are installed and API keys are set up, run the app using Streamlit:
+- Once the dependencies are installed and API keys are set up, run the app using Streamlit:
+  
 streamlit run app.py
+
+
 This will launch the web application in your default browser, where you can use all the features.
 
